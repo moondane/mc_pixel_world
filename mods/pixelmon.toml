@@ -1,0 +1,13 @@
+name = "Pixelmon"
+filename = "Pixelmon-1.12.2-8.3.6-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/155/Pixelmon-1.12.2-8.3.6-universal.jar"
+hash-format = "murmur2"
+hash = "3728061503"
+
+[update]
+[update.curseforge]
+file-id = 3576155
+project-id = 389487

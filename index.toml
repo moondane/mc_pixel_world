@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/pixelmon.toml"
+hash = "fd4177855965dac295f40f8b62e94d880c8d2369fd3f1eeadd58d0a7f38ff697"
+metafile = true
